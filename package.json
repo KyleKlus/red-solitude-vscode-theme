@@ -3,6 +3,12 @@
     "displayName": "Red Solitude",
     "description": "This is a dark theme with a red accentcolor.",
     "version": "0.0.1",
+    "publisher": "MajorEnkidu",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MajorEnkidu/red-solitude-vscode-theme.git"
+    },
+    "keywords": ["theme", "dark theme", "MajorEnkidu", "majorenkidu", "Red Solitude", "red-solitude"],
     "engines": {
         "vscode": "^1.67.0"
     },

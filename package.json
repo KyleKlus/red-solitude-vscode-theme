@@ -1,0 +1,21 @@
+{
+    "name": "red-solitude",
+    "displayName": "Red Solitude",
+    "description": "This is a dark theme with a red accentcolor.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Red Solitude",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Red Solitude-color-theme.json"
+            }
+        ]
+    }
+}

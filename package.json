@@ -2,15 +2,15 @@
     "name": "red-solitude",
     "displayName": "Red Solitude",
     "description": "This is a dark theme with a red accentcolor.",
-    "version": "0.0.7",
-    "preview": true,
+    "version": "0.0.8",
     "license": "MIT",
+    "publisher": "MajorEnkidu",
+    "author": "Kyle Klus",
     "icon": "icon.png",
     "galleryBanner": {
         "color": "#0A0E0F",
         "theme": "dark"
     },
-    "publisher": "MajorEnkidu",
     "repository": {
         "type": "git",
         "url": "https://github.com/MajorEnkidu/red-solitude-vscode-theme.git"
@@ -30,6 +30,10 @@
                 "path": "./themes/Red Solitude-color-theme.json"
             }
         ]
+    },
+    "__metadata": {
+        "publisherDisplayName": "Kyle Klus",
+        "publisherId": "505ce2dc-be49-6993-8c33-595ff24d64ea"
     },
     "publishConfig": {
         "access": "public"

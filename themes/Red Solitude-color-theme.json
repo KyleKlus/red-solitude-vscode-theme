@@ -34,7 +34,7 @@
 		"editorCursor.foreground": "#cf0c0c",
 		"editorError.foreground": "#d51313",
 		"editorGroup.border": "#0A0E0F30",
-		"editorGroupHeader.tabsBackground": "#0A0E0F",
+		"editorGroupHeader.tabsBackground": "#161a1e",
 		"editorHoverWidget.background": "#0A0E0F",
 		"editorHoverWidget.border": "#E9E9E910",
 		"editorIndentGuide.activeBackground": "#CE3B3Bf0",
@@ -152,22 +152,22 @@
 		"tab.activeBorder": "#A32929",
 		"tab.activeForeground": "#E9E9E9",
 		"tab.activeModifiedBorder": "#A32929",
-		"tab.border": "#0A0E0F",
-		"tab.inactiveBackground": "#52141420",
+		"tab.border": "#161a1e",
+		"tab.inactiveBackground": "#52141430",
 		"tab.inactiveForeground": "#C7C7C7af",
-		"tab.unfocusedActiveBorder": "#521414",
-		"tab.unfocusedActiveBackground": "#52141440",
+		"tab.unfocusedActiveBorder": "#A3292950",
+		"tab.unfocusedActiveBackground": "#A3292940",
 		"tab.unfocusedActiveForeground": "#C7C7C7",
 		"tab.unfocusedInactiveBackground": "#52141410",
 		"tab.unfocusedInactiveForeground": "#C7C7C77f",
 		"terminalCursor.foreground": "#A32929",
 		"textLink.activeForeground": "#C7C7C7",
 		"textLink.foreground": "#A32929",
-		"titleBar.activeBackground": "#161a1e",
+		"titleBar.activeBackground": "#0A0E0F",
 		"titleBar.activeForeground": "#C7C7C7",
-		"titleBar.border": "#161a1e",
-		"titleBar.inactiveBackground": "#182126",
-		"titleBar.inactiveForeground": "#521414",
+		"titleBar.border": "#0A0E0F",
+		"titleBar.inactiveBackground": "#0A0E0F80",
+		"titleBar.inactiveForeground": "#c7c7c771",
 		"tree.indentGuidesStroke": "#A32929",
 		"widget.shadow": "#0A0E0F30",
 	},
@@ -515,7 +515,7 @@
 				"foreground": "#0070ff"
 			}
 		},
-		
+
 		{
 			"name": "Function declarations",
 			"scope": [

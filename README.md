@@ -23,5 +23,9 @@ A dark theme with a red accent color and green-blueish tint within every dark su
 
 <p align="center">
     License:
-    <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/blob/main/LICENCE">MIT</a>
+    <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/blob/main/LICENCE.md">MIT</a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/issues">Issues</a>
 </p>

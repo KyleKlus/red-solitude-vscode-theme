@@ -17,8 +17,6 @@
 		"button.background": "#a32929b9",
 		"contrastBorder": "#A3292940",
 		"debugToolBar.background": "#343A41",
-		"diffEditor.insertedTextBackground": "#00000015",
-		"diffEditor.removedTextBackground": "#00000020",
 		"dropdown.background": "#0a0e0fdf",
 		"dropdown.border": "#e9e9e910",
 		"editor.background": "#0f1214",
@@ -540,14 +538,6 @@
 				"storage.type.object.array.groovy",
 				"storage.type.primitive.array.groovy",
 				"storage.type.primitive.groovy",
-				"variable.other.object",
-				"variable.other.constant",
-				"variable.other.global",
-				"variable.other.readwrite.class",
-				"variable.other.readwrite.instance",
-				"variable.other.readwrite.batchfile",
-				"variable.readwrite",
-				"variable.readwrite.other.block"
 			],
 			"settings": {
 				"foreground": "#ff9336"
@@ -586,7 +576,15 @@
                 "parameter.variable",
                 "variable.other",
 				"variable.other.property",
-				"variable.other.block"
+				"variable.other.block",
+				"variable.other.object",
+				"variable.other.constant",
+				"variable.other.global",
+				"variable.other.readwrite.class",
+				"variable.other.readwrite.instance",
+				"variable.other.readwrite.batchfile",
+				"variable.readwrite",
+				"variable.readwrite.other.block"
 			],
 			"settings": {
 				"foreground": "#03abdf"

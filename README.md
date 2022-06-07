@@ -19,13 +19,16 @@ A dark theme with a red accent color and green-blueish tint within every dark su
 <p align="center">
     Designed by
     <a href="https://github.com/MajorEnkidu">MajorEnkidu</a>
-</p>
-
-<p align="center">
-    License:
+     | License:
     <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/blob/main/LICENCE.md">MIT</a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/issues">Issues</a>
+
+</p>
+
+<hr>
+
+<p align="center">
+    Please open an <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/issues">issue</a> on github, if you find any bugs or if you have any recommendations for what I should add to this theme.
 </p>

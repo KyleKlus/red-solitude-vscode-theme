@@ -10,3 +10,4 @@
 - v0.1.4 - Added transparency effect for right click menus & added border for editor groups
 - v0.1.5 - Bugfix
 - v0.1.6 - Bugfix (diff-editor had no/bad colors)
+- v0.1.7 - Updated screenshot and readme

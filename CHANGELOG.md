@@ -12,3 +12,4 @@
 - v0.1.6 - Bugfix (diff-editor had no/bad colors)
 - v0.1.7 - Updated screenshot and readme
 - v0.1.8 - Bugfix (Statusbar is white, when no folder is open)
+- v0.1.9 - Updated README

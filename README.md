@@ -22,8 +22,11 @@ A dark theme with a red accent color and green-blueish tint within every dark su
      | License:
     <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/blob/main/LICENCE.md">MIT</a>
 </p>
-
 <p align="center">
+    <a href='https://ko-fi.com/W7W1D5JTZ' target='_blank'>
+        <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+</p>
 
 </p>
 

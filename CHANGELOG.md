@@ -14,3 +14,4 @@
 - v0.1.8 - Bugfix (Statusbar is white, when no folder is open)
 - v0.1.9 - Updated README
 - v0.2.0 - Complete syntax highlighting overhaul & more language support
+- v0.2.1 - Bugfix: incorrect markdown colors and font-style

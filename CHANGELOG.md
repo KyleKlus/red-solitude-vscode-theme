@@ -15,3 +15,4 @@
 - v0.1.9 - Updated README
 - v0.2.0 - Complete syntax highlighting overhaul & more language support
 - v0.2.1 - Bugfix: incorrect markdown colors and font-style
+- v0.2.2 - Updated README

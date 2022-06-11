@@ -23,6 +23,18 @@ A dark theme with a red accent color and green-blueish tint within every dark su
     <a href="https://github.com/MajorEnkidu/red-solitude-vscode-theme/blob/main/LICENCE.md">MIT</a>
 </p>
 <p align="center">
+    Icon theme in screenshot:
+    <a href='[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)' target='_blank'>
+        Material Icon Theme
+    </a> by Philipp Kief
+</p>
+<p align="center">
+    Product Icons in screenshot:
+    <a href='[Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)' target='_blank'>
+        Material Product Icons
+    </a> by Philipp Kief
+</p>
+<p align="center">
     <a href='https://ko-fi.com/W7W1D5JTZ' target='_blank'>
         <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </a>

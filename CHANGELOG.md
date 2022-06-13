@@ -15,3 +15,4 @@
 - v0.2.1 - Bugfix: incorrect markdown colors and font-style
 - v0.2.2 - Updated README
 - v0.2.3 - Updated extension install button & added a option to install it with the standard line number color
+- v0.2.4 - Bugfix: badge links in README were pointing to the wrong site

@@ -2,7 +2,7 @@
     "name": "red-solitude",
     "displayName": "Red Solitude",
     "description": "A dark vscode theme with a red accent color and green-blueish tint within every dark surface.",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "license": "MIT",
     "publisher": "MajorEnkidu",
     "author": "Kyle Klus",
@@ -31,6 +31,11 @@
                 "label": "Red Solitude",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Red Solitude-color-theme.json"
+            },
+            {
+                "label": "Red Solitude (default line numbers color)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Red Solitude-color-theme-non-red-line-numbers.json"
             }
         ]
     },

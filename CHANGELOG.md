@@ -17,3 +17,4 @@
 - v0.2.3 - Updated extension install button & added a option to install it with the standard line number color
 - v0.2.4 - Bugfix: badge links in README were pointing to the wrong site
 - v0.2.5 - Brightened up the menu for increased readability
+- v0.2.6 - Brightened up all popups and dropdown menus

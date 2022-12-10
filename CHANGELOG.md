@@ -20,3 +20,4 @@
 - v0.2.6 - Brightened up all popups and dropdown menus
 - v0.2.7 - Updated some colors
 - v0.2.8 - Added different Brightnesses
+- v0.2.9 - Bugfix

@@ -525,7 +525,7 @@
 			"name": "css attribute / pseudo class",
 			"scope":"entity.other.attribute-name.pseudo-class.css,entity.other.attribute-name.pseudo-element.css",
 			"settings": {
-				"foreground": "#e9dd54",
+				"foreground": "#e9dd54"
 			}
 		},
 		{

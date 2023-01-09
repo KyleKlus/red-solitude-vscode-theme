@@ -22,3 +22,4 @@
 - v0.2.8 - Added different brightnesses
 - v0.2.9 - Bugfix
 - v0.3.0 - Added another brightness level
+- v0.3.1 - Added another brightness level
